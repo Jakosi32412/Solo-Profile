@@ -2,10 +2,9 @@
 
 <p align="center"> ⚒ Share and cross promote your links, music, videos, social media, and more on one page.</p>
 
-<br>
+<h3 align="center">Fork and Enjoy 💫 This Repo</h3>
 
 ---
-
 
 <h2 align="center"> Where To Host : </h2>
 
